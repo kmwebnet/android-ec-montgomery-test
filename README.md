@@ -1,6 +1,6 @@
 ## android-ec-montgomery-test
 
-This tests RFC7748 X25519 ECDH operation on KeyFActory Android
+This tests RFC7748 X25519 ECDH operation on KeyFactory Android
 
 ## Environment
 
