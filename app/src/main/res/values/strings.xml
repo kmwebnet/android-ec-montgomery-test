@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EC montgomery app</string>
+    <string name="text1">Alice\'s private key</string>
+    <string name="button">START</string>
+    <string name="bob_s_public_key">Bob\'s Public Key</string>
+    <string name="shared_secret">Computed Shared Secret</string>
+    <string name="expected_results">Expected Results</string>
+</resources>
